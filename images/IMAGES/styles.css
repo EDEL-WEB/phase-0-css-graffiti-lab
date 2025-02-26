@@ -1,0 +1,23 @@
+h1{color: red;
+border-width: 50px
+font-size 100px;
+font-style: italic;
+position: static;
+text-align: left;}
+    img{position: absolute;
+    left: 0px;
+width: 500px;
+height: 200px;
+display: block;
+margin-right: auto;
+margin-left: auto;
+font-size: 50px;
+}
+body{
+    background-image: url('images/ background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+    
